@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="./css/styles.css">                                       loads a style sheet into a html doc relative path
+<link rel="stylesheet" href="/css/styles.css">                                        Same thing but absolute path
